@@ -1,1 +1,1 @@
-# Vehicles Number Plate Detection Using Pytesseract
+# Vehicle's Number Plate Detection Using Pytesseract
