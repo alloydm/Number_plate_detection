@@ -40,3 +40,5 @@ This will open the Jupyter Notebook software and project file in your browser.
 ### Email sent through smtp server
 ![](https://github.com/nagendram399/Number_plate_detection/blob/main/Images/Emailscreenshot.png)
 
+=======
+
