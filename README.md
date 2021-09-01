@@ -19,7 +19,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 Template code is provided in the `untitled0.ipynb` notebook file. You will also be required to use the included `wpod-net.json`and the `local_utils.py` python file to complete to successfully complete the project. 
 
-### Run
+### How to Run 
 If your are running in [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index) run it directly.
 
 In a terminal or command window, navigate to the top-level project directory `Number_plate_detection/` (that contains this README) and run one of the following commands:
